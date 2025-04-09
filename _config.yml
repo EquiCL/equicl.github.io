@@ -13,28 +13,28 @@ people:
   pic: 1
   position: President
   social:
-    - title: email
+    - title: homepage
       url: 
 
 - name: Christine de Kock
   pic: 2
   position: Secretary
   social:
-    - title: web
+    - title: homepage
       url: https://christinedekock.com/
 
 - name: Fatma Elsafoury
   pic: 3
   position: Affinity group liaison
   social:
-    - title: web
+    - title: homepage
       url: https://efatmae.github.io/
 
 - name: Chi-kiu (Jackie) Lo 羅致翹
   pic: 4
   position: Technical officer
   social:
-    - title: web
+    - title: homepage
       url: https://chikiu-jackie-lo.org/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
