@@ -23,6 +23,13 @@ people:
     - title: home
       url: https://christinedekock.com/
 
+- name: (Vacant)
+  pic: v
+  position: Accounting officer
+  social:
+    - title: home
+      url: #
+
 - name: Fatma Elsafoury
   pic: 3
   position: Affinity group liaison
@@ -30,26 +37,19 @@ people:
     - title: home
       url: https://efatmae.github.io/
 
-- name: (Vacant)
-  pic: 
-  position: Accounting officer
-  social:
-    - title: home
-      url: #
-
-- name: (Vacant)
-  pic: 
-  position: Publicity officer
-  social:
-    - title: home
-      url: #
-
 - name: Chi-kiu (Jackie) Lo 羅致翹
   pic: 4
   position: Technical officer
   social:
     - title: home
       url: https://chikiu-jackie-lo.org/
+
+- name: (Vacant)
+  pic: v
+  position: Publicity officer
+  social:
+    - title: home
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
