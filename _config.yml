@@ -1,5 +1,5 @@
 url: https://equicl.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: EquiCL
@@ -23,12 +23,12 @@ people:
     - title: home
       url: https://christinedekock.com/
 
-- name: (Vacant)
-  pic: v
+- name: Santosh T.Y.S.S.
+  pic: 5
   position: Accounting officer
   social:
     - title: home
-      url: #
+      url: https://www.linkedin.com/in/santosh-t-y-s-s-39227b116/?skipRedirect=true
 
 - name: Fatma Elsafoury
   pic: 3
