@@ -13,14 +13,14 @@ people:
   pic: 1
   position: President
   social:
-    - title: home
+    - title: house
       url: https://zeerak.org/
 
 - name: Christine de Kock
   pic: 2
   position: Secretary
   social:
-    - title: home
+    - title: house
       url: https://christinedekock.com/
 
 - name: Santosh T.Y.S.S.
@@ -34,14 +34,14 @@ people:
   pic: 3
   position: Affinity group liaison
   social:
-    - title: home
+    - title: house
       url: https://efatmae.github.io/
 
 - name: Chi-kiu (Jackie) Lo 羅致翹
   pic: 4
   position: Technical officer
   social:
-    - title: home
+    - title: house
       url: https://chikiu-jackie-lo.org/
 
 - name: (Vacant)
