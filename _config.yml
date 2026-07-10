@@ -13,53 +13,63 @@ people:
   pic: 1
   position: President
   social:
-    - title: house
+    - category: regular
+      title: house
       url: https://zeerak.org/
 
 - name: Christine de Kock
   pic: 2
   position: Secretary
   social:
-    - title: house
+    - category: regular
+      title: house
       url: https://christinedekock.com/
 
 - name: Santosh T.Y.S.S.
   pic: 5
   position: Publicity officer
   social:
-    - title: linkedin
+    - category: brands
+      title: linkedin
       url: https://www.linkedin.com/in/santosh-t-y-s-s-39227b116/?skipRedirect=true
 
 - name: Fatma Elsafoury
   pic: 3
   position: Affinity group liaison
   social:
-    - title: house
+    - category: regular
+      title: house
       url: https://efatmae.github.io/
 
 - name: Chi-kiu (Jackie) Lo 羅致翹
   pic: 4
   position: Technical officer
   social:
-    - title: house
+    - category: regular
+      title: house
       url: https://chikiu-jackie-lo.org/
 
 - name: (Vacant)
   pic: v
   position: Accounting officer
   social:
-    - title: home
+    - category: regular
+      title: house
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: envelope
+  - category: regular
+    title: envelope
     url: mailto:exec@equicl.org
-  - title: linkedin
+  - category: brands
+    title: linkedin
     url: https://www.linkedin.com/company/equicl
-  - title: bluesky
+  - category: brands
+    title: bluesky
     url: https://bsky.app/profile/equicl.bsky.social
-  - title: github
+  - category: brands
+    title: github
     url: http://github.com/EquiCL
 
 # # Postal address (add as many lines as necessary)
