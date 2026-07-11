@@ -62,6 +62,9 @@ social:
   - category: regular
     title: envelope
     url: mailto:exec@equicl.org
+  - category: regular
+    title: envelopes-bulk
+    url: mailto:equicl-subscribe@lists.riseup.net
   - category: brands
     title: linkedin
     url: https://www.linkedin.com/company/equicl
